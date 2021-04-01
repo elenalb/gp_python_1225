@@ -1,0 +1,2 @@
+# None
+print(type(None))
